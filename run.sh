@@ -1,11 +1,11 @@
 clear
-cd PlantillaProyecto
+cd EjemplosClase
 printf "Compiling..."
 javac -d bin src/consola/*.java src/logica/*.java
 if [ $? == 0 ] 
 then
     clear
-    java -cp bin consola.Principal
+    java -cp bin consola.Principal1
 else
     printf "\n\n\nError - Exit code $?"
 fi
