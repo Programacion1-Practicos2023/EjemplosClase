@@ -79,9 +79,4 @@ public class Ejer_Array {
 		System.out.println("El 6 salió: "+total6);
 		
 	}
-	
-	
-	
-	
-
 }
