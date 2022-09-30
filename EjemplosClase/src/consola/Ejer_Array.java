@@ -1,3 +1,7 @@
+/* Ejercicio propuesto en Métodos discretos para coordinar con programación Array y funciones y procedimientos.
+  Link a la letra del ejercicio: https://drive.google.com/file/d/1n9JqNrYwIl2PGq4sEJdQ6h70e_XEdzxo/view?usp=sharing */
+
+
 package consola;
 import java.util.Random;
 
