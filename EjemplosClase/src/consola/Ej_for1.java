@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Ej_for1 {
 	
-	public static void main(String[] args) {
-		Scanner teclado=new Scanner(System.in);   
+	public static void main(String[] args) {//ppp
+		Scanner teclado=new Scanner(System.in);      
 		//Pedir un nro y mostrar la tabla de dicho nro.
 		
 		System.out.println("Ingrese un nro: ");
