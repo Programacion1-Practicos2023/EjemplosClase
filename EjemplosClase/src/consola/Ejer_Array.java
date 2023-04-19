@@ -15,15 +15,16 @@ public class Ejer_Array {
 	
 	//metodo tirarDado
 	public static int tirarDado() {
-		
+
+    return 0;
 	}
 	
 	//cargar el array con numeros al azar
 	public static void cargarJuego(int array1[]) {
 		
 		
-		}
 	}
+	
 		
 	
 	public static void mostrarJuego(int array1[]) {
@@ -32,7 +33,8 @@ public class Ejer_Array {
 	}
 	
 	public static int contarRepeticiones(int array1[], int nro) {
-		
+
+    return 0;
 	}
 	
 	public static void contarTodas(int array1[]) {
