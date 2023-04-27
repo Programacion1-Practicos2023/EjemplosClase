@@ -13,5 +13,5 @@
 6) **Para usarlo en la PC, descargar el zip, descomprimirlo y copiar la carpeta en el workspace de eclipse,  
 luego en Eclipse, crear un proyecto con el mismo nombre de la carpeta que se dejó en workspace.**
 
-Ultima actualización 22 de set 2022
+Ultima actualización 19 de abril de 2023
 enlazado en replit en: https://replit.com/@utu_liceo/EjemplosClase#README.md
